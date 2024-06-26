@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s05qcfg",
-  "description": "https://v2.scrimba.com/the-ai-engineer-path-c02v/~03",
+  "name": "Scrim-s0ughn3rvm",
+  "description": "https://v2.scrimba.com/the-ai-engineer-path-c02v/~0c",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "openai": "4.14.2",
     "vite": "latest"
   },
   "devDependencies": {}
