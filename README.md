@@ -1,6 +1,6 @@
 # The AI Engineer Path Coding Projects
 
-- [Stock Predictions App](https://stock-predictions.pages.dev/)
+- [Doggy Dave's Stock Predictions](https://stock-predictions.pages.dev/)
 <img style="height: 250px; width: auto;" src="./assets/SP1.png">
 <img style="height: 250px; width: auto;" src="./assets/SP2.png">
 
